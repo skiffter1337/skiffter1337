@@ -100,7 +100,7 @@
 <!-- FOOTER -->
 <div align="center">
     <a href=mailto:shulapov1999@gmail.com target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=Contact%20me%20&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
 <!-- FOOTER -->
