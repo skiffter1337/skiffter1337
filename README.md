@@ -42,10 +42,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux" alt="Redux "
              width="40" height="40"/></a>&nbsp;
-<!--     <a href="https://angular.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
-             title="Angular" alt="Angular "
-             width="40" height="40"/></a>&nbsp;          -->
     <a href="https://mui.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
              title="Material UI" alt="Material UI"
@@ -66,10 +62,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
              title="SASS" alt="SASS"
              width="40" height="40"/></a>&nbsp;     
-     <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-             title="TailwindCSS" alt="TailwindCSS"
-             width="40" height="40"/></a>&nbsp; 
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
@@ -82,17 +74,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"
              title="Eslint" alt="Eslint "
              width="40" height="40"/></a>&nbsp;  
-    <a href="https://socket.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"
-             title="Socket.io" alt="Socket.io "
-             width="40" height="40"/></a>&nbsp;  
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
-             width="40" height="40"/></a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
-             title="Photoshop" alt="Photoshop"
              width="40" height="40"/></a>&nbsp;
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
