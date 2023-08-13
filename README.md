@@ -1,8 +1,7 @@
 <!-- HEARER -->
 <div align="center">
      <a >
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ilya%20Shulapov&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=55"/>
-</div>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ilya%20Shulapov&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=30&descSize=18&descAlign=68&descAlignY=70"/>
     </a>
 <!-- /HEARER -->
 
