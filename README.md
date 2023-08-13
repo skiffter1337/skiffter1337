@@ -8,7 +8,7 @@
 <!-- ./STAT -->
 <div align="center">
     <a href="https://skyline.github.com/skiffter1337/2023" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=skiffter1337&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=skiffter1337&hide_border=true&stroke=888&ring=003731&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=003731&background=0000"
              title="skiffter1337" 
              alt="skiffter1337"
              width="60%"/>
@@ -16,13 +16,13 @@
 </div>
 <div align="center">
     <a href="https://github.com/skiffter1337?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=skiffter1337&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api?username=skiffter1337&show_icons=true&count_private=true&hide_border=true&title_color=003731&text_color=888&icon_color=003731&bg_color=0000"
              title="skiffter1337 github repositories" 
              alt="skiffter1337 github stats"
              width="49%"/>
     </a>
     <a href="https://github.com/skiffter1337?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiffter1337&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiffter1337&&layout=compact&hide_border=true&title_color=003731&text_color=888&bg_color=0000"
              title="skiffter1337 github repositories"
              alt="skiffter1337 github stats"
              width="41%"/>
@@ -100,7 +100,7 @@
 <!-- FOOTER -->
 <div align="center">
     <a href=mailto:shulapov1999@gmail.com target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=Contact%20me%20&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=003731&height=120&section=footer&text=Contact%20me%20&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
 <!-- FOOTER -->
